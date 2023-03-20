@@ -1,0 +1,129 @@
+.main{
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(rgba(0,0,0,1),rgba(0,0,0,0)),url('../images/img3.jpg');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(247, 211, 33, 0.162);
+}
+
+.main-heading{
+    color: white;
+}
+
+.login-card{
+   height: 40vh;
+    width: 30vw;
+    background-color: rgba(255, 255, 255, 0.372);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    border-radius: 10px;
+}
+
+.register-card{
+    height: 80vh;
+    width: 60vw;
+    background-color: rgba(255, 255, 255, 0.372);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+
+.register-head{
+    margin-top: 20px;
+}
+
+.button{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.home-main{
+    height: 100vh;
+    width: 100vw;
+}
+
+.home-content{
+    width: 100vw;
+    background-image: url('../images/taxi.jpg');
+    background-size: cover;
+}
+
+.home-nav{
+    height: 10vh;
+    width: 100vw;
+}
+
+.land-nav{
+    height: 10vh;
+    width: 100vw;
+}
+
+.land-content{
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0)),url('../images/imgs1.jpg');
+    background-size: cover;
+}
+
+.land-head{
+    color: white;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    font-size: 70px;
+}
+
+.land-paragraph{
+    color: white;
+    padding: 30px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.cab-content{
+    width: 100vw;
+}
+
+.cab-subdiv{
+    height: 80vh;
+    background-image: url('../images/img4.jpg');
+    background-size: cover;
+}
+
+.cab-div{
+    margin-right: 80px;
+    margin-top: -100px;
+    margin-bottom: 50px;
+}
+
+.cab-main-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.cab-main-sub{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.cab-button{
+    border-radius: 10px;
+    height: 40px;
+    width: 100px;
+    background-color: rgba(248, 152, 7, 0.406);
+}

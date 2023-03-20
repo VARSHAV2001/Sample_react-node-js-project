@@ -1,0 +1,9 @@
+{
+    "development": {
+        "username": "root",
+        "password": "Varsha@2001",
+        "database": "pro_learn",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    }
+}
